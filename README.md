@@ -1,5 +1,5 @@
 
-# Sample ML/AI Projects
+# Sample AI/ML Projects
 
 ## Overview
 The following projects are samples of transfer learning using Transformer models, using a variety of tasks and data sources in multiple contexts and modalities. 
